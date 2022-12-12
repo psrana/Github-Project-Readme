@@ -4,8 +4,9 @@
 ---
 ### **1. Methodology**
 ---
-![image](https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png)
+! [ i mage] ()
 
+![](https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png =250x250)
 ---
 ### **2. Description**
 ---
