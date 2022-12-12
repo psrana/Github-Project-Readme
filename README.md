@@ -17,4 +17,4 @@
 ## **4. Live link and Interface screenshot**
 Link: www.FacialExpressionRecognition.com
 
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="60%" height="60%">
