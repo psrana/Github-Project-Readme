@@ -11,7 +11,7 @@
 
 
 ## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="50%" height="50%">
 
 
 ## **4. Live link and Interface screenshot**
