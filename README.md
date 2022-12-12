@@ -1,17 +1,10 @@
 ---
-# **Mini, Major and Research Projects**
-
-#### **1. [Mini Projects](#1-mini-projects-1)**
-#### **2. [Major Projects](#2-major-projects-1)**
-#### **3. [Research Projets](#3-research-projets-1)**
+# **Facial Expression Recognition**
 
 ---
 ### **1. Mini Projects**
 ---
- 1. **500+ AI (ML, DL, CV, NLP, etc) Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener"><b>Click Here</b></a>
- 2. **Krish Naik Repository** | <a href="https://github.com/krishnaik06?tab=repositories" target="_blank" rel="noopener"><b>Click Here</b></a>
-
-
+![image](https://user-images.githubusercontent.com/7460892/206970262-cfe591b4-bcfc-4415-9a74-5ea1c79854c7.png)
 ---
 ### **2. Major Projects**
 ---
