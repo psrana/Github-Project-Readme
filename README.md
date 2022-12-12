@@ -7,14 +7,14 @@
 
 
 ## **2. Description**
-![image](https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png)
+<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
 
 
 ## **3. Input / Output**
-![image](https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png)
+<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="80%" height="80%">
 
 
 ## **4. Live link and Interface screenshot**
 Link: www.FacialExpressionRecognition.com
 
-![image](https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png)
+<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="80%" height="80%">
